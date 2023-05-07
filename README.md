@@ -4,7 +4,7 @@
 Experiment with concepts of binary tree, or the sorted binary tree in specific. In this project, we can see how:
 * Create the private Node class that include the field for value, and two Node fields for child nodes
 * Create attributes of the the sorted binary tree
-* Insert the element in to the binary tree
+* Insert the element into the binary tree
 * Check to see if a specific item is contained in the binary tree
 * Remove the specific item from the binary tree
 * Pre-order depth first traversal
